@@ -1,134 +1,230 @@
 <div align="center">
 
-# 👋 Hi, I'm **Cuognit**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0f172a&height=180&section=header&text=CUOGNIT&fontSize=52&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20Full-stack&descAlignY=62&descSize=18&descColor=e2e8f0" width="100%" />
 
-### 🚀 Developer · Builder · Lifelong Learner
+# Nguyễn Mạnh Cường
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;I+build+things+with+code+%F0%9F%92%BB;Learning%2C+creating%2C+and+improving+every+day+%F0%9F%94%A5;Turning+ideas+into+real+projects+%F0%9F%9A%80" alt="Typing animation" />
-</p>
+### \`Backend Developer\` · \`Full-stack Developer\` · \`Problem Solver\`
 
 <p>
-  <a href="https://github.com/cuognit"><img src="https://img.shields.io/badge/GitHub-cuognit-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=cuognit&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/cuognit">
+    <img src="https://img.shields.io/badge/GitHub-cuognit-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:cuongct18.jr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+real+world+software+with+code.;Backend+%7C+APIs+%7C+Databases+%7C+Distributed+Systems;Learning+by+building%2C+debugging%2C+and+shipping.;Always+curious.+Always+building." />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
+\`\`\`ts
 const cuognit = {
-  name: "Cuognit",
-  role: "Developer",
-  focus: ["Building useful products", "Learning modern technologies", "Writing clean code"],
-  mindset: "Learn something new, build something useful, improve every day.",
-  currentlyLearning: ["Web Development", "Software Engineering", "Modern Tools"],
-  funFact: "I enjoy turning ideas into working projects 🚀"
+  name: "Nguyễn Mạnh Cường",
+  alias: "Cuognit",
+  focus: ["Backend Development", "Full-stack Development"],
+  currentlyLearning: ["TypeScript", "React", "Next.js", "Flutter"],
+  backend: ["Node.js", "Express", "Spring Boot"],
+  databases: ["PostgreSQL", "MongoDB", "Redis"],
+  interests: ["Software Architecture", "APIs", "DevOps", "Developer Tools"],
+  mindset: "Build → Understand → Improve → Ship"
 };
-```
+\`\`\`
 
-- 🔭 Currently exploring new ideas and building personal projects.
-- 🌱 Improving my skills in programming, web development, and software engineering.
-- 🧠 Interested in clean architecture, automation, developer tools, and creative technology.
-- 🤝 Open to learning, collaboration, and interesting projects.
-- ⚡ Goal: write better code and build things that make a difference.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp" alt="Programming languages" />
-</p>
-
-### ⚙️ Frameworks, Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,tailwind,git,github,vscode,figma,linux,docker" alt="Tools and technologies" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb, firebase,vercel" alt="Databases and cloud technologies" />
-</p>
-
-> I’m continuously expanding this stack as I learn and work on new projects.
+- 🎓 Final-year Software Engineering student.
+- 🔨 Build applications from database design to API and frontend.
+- 🧠 Interested in **backend architecture, authentication, databases, caching and scalable systems**.
+- 🚀 Prefer learning technologies through real projects rather than isolated tutorials.
+- 🤝 Open to collaboration, internships and interesting software projects.
 
 ---
 
-## 🚀 What I Like Building
+## ⚡ Tech Stack
 
-| Area | Interests |
-|---|---|
-| 🌐 Web Development | Responsive interfaces, modern web apps, and useful digital products |
-| ⚡ Backend | APIs, databases, authentication, and scalable services |
-| 🤖 Automation | Tools and workflows that save time and reduce repetitive work |
-| 🎨 UI/UX | Clean, accessible, and enjoyable user experiences |
-| 📚 Learning | Exploring technologies through real projects and experimentation |
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,dart" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,linux" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧩 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Backend Systems
+
+- RESTful APIs
+- Authentication & Authorization
+- JWT / Refresh Tokens
+- RBAC
+- OTP & verification flows
+- File uploads
+- Caching & Redis
+- WebSocket / real-time features
+
+</td>
+<td width="50%">
+
+### 🛒 Full-stack Applications
+
+- E-commerce platforms
+- Course platforms
+- Job platforms
+- Real-time chat systems
+- Admin dashboards
+- Authentication systems
+- Notification systems
+- Payment / order workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Engineering Interests
+
+\`\`\`text
+Architecture
+├── MVC
+├── Clean Architecture
+├── REST API Design
+├── Modular Design
+└── Domain-driven thinking
+
+Backend
+├── Node.js / Express
+├── Spring Boot
+├── Authentication
+├── Authorization / RBAC
+└── Real-time communication
+
+Data
+├── PostgreSQL
+├── MongoDB
+├── Redis
+├── ORM / ODM
+└── Database normalization
+
+Engineering
+├── Git / GitHub
+├── Docker
+├── API testing
+├── Debugging
+└── Deployment
+\`\`\`
+
+---
+
+## 🚀 Featured Work
+
+> Most of my repositories are built as hands-on engineering projects — focusing on architecture, APIs, databases and real application workflows.
+
+| Project | Focus | Stack |
+|---|---|---|
+| 🎓 Course Platform | Courses, authentication, OTP, sessions, learning flow | Node.js · Express · MongoDB |
+| 💬 Real-time Chat | JWT, refresh token, rooms, presence, unread messages | Spring Boot · React · PostgreSQL · Redis |
+| 🛒 E-commerce API | Orders, products, cart, vouchers, RBAC, dashboard | Express · PostgreSQL · Sequelize |
+| 🎯 Job Platform | Companies, recruitment, users and job workflows | Node.js · PostgreSQL |
+| 📱 Flutter Apps | Cross-platform mobile development | Flutter · Dart |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cuognit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=FFFFFF&count_private=true" alt="Cuognit's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuognit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" alt="Cuognit's top languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cuognit&show_icons=true&hide_border=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuognit&layout=compact&hide_border=true&theme=transparent&title_color=38bdf8&text_color=cbd5e1&langs_count=8" />
+
 </div>
 
 <br />
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=cuognit&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF2D95&currStreakLabel=00F7FF" alt="Cuognit's GitHub streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cuognit&hide_border=true&theme=transparent&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=94a3b8" width="70%" />
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuognit&bg_color=0D1117&color=FFFFFF&line=00F7FF&point=FF2D95&area=true&hide_border=true" alt="GitHub contribution graph" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
 </div>
 
 ---
 
-## 📌 Featured Projects
-
-> Pin your best repositories on your GitHub profile to display them here.
-
-- 🚀 **Project 1** — Add a short description of your best project.
-- 🧩 **Project 2** — Add the technologies and problem it solves.
-- 🔧 **Project 3** — Add a link and explain what you learned.
-
----
-
-## 🌐 Connect With Me
+## 🎯 Current Direction
 
 <div align="center">
-  <a href="https://github.com/cuognit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+### Backend → Full-stack → Software Engineering
+
+**Deepen fundamentals**  
+↓  
+**Build production-style projects**  
+↓  
+**Learn architecture & system design**  
+↓  
+**Ship better software**
+
 </div>
 
 ---
 
+## 📚 Learning Philosophy
+
+> **Don't just learn the syntax. Understand the system behind it.**
+
+I focus on understanding **why** a technology is used, how components interact, where trade-offs exist, and how the same concepts apply across different stacks.
+
+---
+
 <div align="center">
 
-### 💬 Developer Motto
+### 💙 Thanks for visiting
 
-> **“Stay curious. Keep building. Never stop improving.”**
+If you find something interesting here, feel free to explore the repositories.
 
-⭐ Thanks for visiting my profile — feel free to explore my repositories!
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=cuognit&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" />
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
