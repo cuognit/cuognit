@@ -131,7 +131,6 @@ A React and Express order-management application with a separate backend API and
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-cuongct18.jr%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:cuongct18.jr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-cuognit-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cuognit)
 
 **Learn · Build · Improve · Repeat**
