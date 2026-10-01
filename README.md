@@ -1,266 +1,194 @@
 <div align="center">
 
-# Nguyễn Mạnh Cường
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=NGUYEN%20MANH%20CUONG&fontSize=38&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=BACKEND%20%7C%20FULL-STACK%20%7C%20SYSTEMS&descAlignY=60&descSize=16" width="100%" />
 
-### `Backend-focused Full-Stack Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Backend+Engineering+%7C+Full-stack+Development;Node.js+%7C+Spring+Boot+%7C+PostgreSQL+%7C+MongoDB;APIs+%7C+Authentication+%7C+Redis+%7C+Real-time;Learning+%E2%86%92+Building+%E2%86%92+Shipping+%E2%86%92+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=%24+whoami;Backend-focused+Full-Stack+Developer;Node.js+%7C+Spring+Boot+%7C+PostgreSQL+%7C+MongoDB;API+%7C+Security+%7C+Redis+%7C+Real-time;Learning+%E2%86%92+Building+%E2%86%92+Shipping+%E2%86%92+Improving" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/cuognit"><img src="https://img.shields.io/badge/GitHub-cuognit-181717?style=for-the-badge&logo=github" /></a>
-<a href="mailto:cuongct18.jr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/BACKEND-0D1117?style=for-the-badge&logo=serverfault&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/FULL--STACK-0D1117?style=for-the-badge&logo=codeforces&logoColor=3FB950" />
+<img src="https://img.shields.io/badge/SYSTEMS-0D1117?style=for-the-badge&logo=linux&logoColor=F0883E" />
+<img src="https://img.shields.io/badge/AI-0D1117?style=for-the-badge&logo=googlebard&logoColor=A371F7" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm **Nguyễn Mạnh Cường**, a final-year software engineering student focused on **backend and full-stack web development**.
-
-I enjoy understanding what happens behind the interface — API design, authentication, databases, caching, real-time communication and asynchronous processing.
-
-### Current Direction
+## `// PROFILE`
 
 ```text
-Backend Engineering
-        +
-Full-stack Development
-        +
-System Design
-        +
-AI-powered Applications
-```
-
----
-
-# 🧠 Engineering Dashboard
-
-<div align="center">
-
-### ⚙️ BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
-
-<br/>
-
-`REST API` · `JWT` · `RBAC` · `MVC` · `Layered Architecture`
-
-<br/><br/>
-
-### 🗄️ DATA
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-
-<br/>
-
-`PostgreSQL` · `MongoDB` · `Redis` · `JPA` · `Sequelize` · `TypeORM`
-
-<br/><br/>
-
-### ⚡ REAL-TIME & ASYNC
-
-<img src="https://skillicons.dev/icons?i=socketio,rabbitmq,docker" />
-
-<br/>
-
-`WebSocket` · `STOMP` · `Socket.IO` · `BullMQ` · `Workers` · `Caching`
-
-<br/><br/>
-
-### 🤖 AI
-
-`LLM APIs` · `Gemini` · `Embeddings` · `Semantic Search` · `RAG` · `VTON`
-
-</div>
-
----
-
-# 🛠️ Technology Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,dart&perline=10" />
-
-<br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=10" />
-
-<br/>
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter&perline=10" />
-
-<br/>
-
-**Database & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&perline=10" />
-
-<br/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&perline=10" />
-
-</div>
-
----
-
-# 🔐 Engineering Areas
-
-<div align="center">
-
-`AUTHENTICATION` · `AUTHORIZATION` · `JWT` · `RBAC`
-
-`REST API` · `VALIDATION` · `RATE LIMITING` · `ERROR HANDLING`
-
-`POSTGRESQL` · `MONGODB` · `REDIS` · `ORM / ODM`
-
-`WEBSOCKET` · `STOMP` · `SOCKET.IO` · `PRESENCE`
-
-`BULLMQ` · `BACKGROUND WORKERS` · `ASYNC PROCESSING`
-
-`CLOUDINARY` · `EMAIL` · `EXTERNAL APIs` · `AI / LLM APIs`
-
-</div>
-
----
-
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cuognit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuognit&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="180" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=cuognit&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cuognit&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-
-</div>
-
----
-
-# 💻 Development Focus
-
-<div align="center">
-
-```text
-                    SOFTWARE ENGINEERING
-                            │
-          ┌─────────────────┼─────────────────┐
-          ▼                 ▼                 ▼
-       Backend            Data             Security
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            ▼
-                   Distributed Features
-                            │
-             ┌──────────────┴──────────────┐
-             ▼                             ▼
-        Real-time                      Async Jobs
-             │                             │
-             └──────────────┬──────────────┘
-                            ▼
-                       AI Systems
+┌─────────────────────────────────────────────────────────────┐
+│  Nguyễn Mạnh Cường                                          │
+│  Final-year Software Engineering Student                    │
+│                                                             │
+│  Focus      : Backend Engineering / Full-stack Development │
+│  Runtime    : Node.js / Java / Spring Boot                 │
+│  Data       : PostgreSQL / MongoDB / Redis                 │
+│  Frontend   : React / Next.js / TypeScript                 │
+│  Interests  : APIs / Security / Real-time / AI             │
+│                                                             │
+│  Status     : BUILDING...                                   │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-# 📚 Learning & Building
-
-### Currently Deepening
-
-- Backend engineering
-- Database design
-- API architecture
-- Authentication & authorization
-- Redis & asynchronous processing
-- Real-time systems
-- System design fundamentals
-
-### Development Loop
+# `01 // STACK`
 
 <div align="center">
 
-```text
-Understand
-    ↓
-Build
-    ↓
-Analyze
-    ↓
-Improve
-    ↓
-Ship
-    ↓
-Repeat
-```
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,dart,nodejs,express,spring,react,nextjs,postgres,mongodb,redis,docker,git,github,postman,vscode&perline=9" />
 
-</div>
+<br/><br/>
 
----
-
-# 🎯 Engineering Philosophy
-
-<div align="center">
-
-> **Don't just make it work. Understand why it works.**
-
-```text
-Can I build it?
-      ↓
-Do I understand it?
-      ↓
-Can I design it better?
-      ↓
-Can I make it reliable?
-```
-
-</div>
-
----
-
-<div align="center">
-
-### `Building → Learning → Shipping → Improving`
+`JavaScript` · `TypeScript` · `Java` · `Python` · `Dart`
 
 <br/>
+
+`Node.js` · `Express` · `Spring Boot` · `React` · `Next.js`
+
+<br/>
+
+`PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `Git`
+
+</div>
+
+---
+
+# `02 // ENGINEERING`
+
+```text
+┌─ BACKEND ───────────────────────────────────────────────────┐
+│ REST APIs  │ MVC  │ Layered Architecture │ Modular Design  │
+│ JWT        │ RBAC │ Validation            │ Error Handling │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ DATA ───────────────────────────────────────────────────────┐
+│ PostgreSQL │ MongoDB │ Redis │ JPA │ Sequelize │ TypeORM   │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ DISTRIBUTED / REAL-TIME ───────────────────────────────────┐
+│ WebSocket │ STOMP │ Socket.IO │ BullMQ │ Workers │ Caching │
+└─────────────────────────────────────────────────────────────┘
+
+┌─ AI ─────────────────────────────────────────────────────────┐
+│ Gemini │ LLM APIs │ Embeddings │ Semantic Search │ RAG     │
+│ VTON   │ AI-powered application features                   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `03 // SYSTEM MINDSET`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1000&color=3FB950&center=true&vCenter=true&width=850&lines=REQUEST+%E2%86%92+MIDDLEWARE+%E2%86%92+CONTROLLER+%E2%86%92+SERVICE;SERVICE+%E2%86%92+DATABASE+%7C+REDIS+%7C+EXTERNAL+SERVICES;REAL-TIME+%3D%3E+WEBSOCKET+%2F+STOMP+%2F+SOCKET.IO;ASYNC+%3D%3E+QUEUE+%2F+WORKER+%2F+BACKGROUND+JOB" alt="System flow" />
+
+```text
+                         CLIENT
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │  REST API   │
+                    └──────┬──────┘
+                           ▼
+                 ┌───────────────────┐
+                 │ Middleware / Auth │
+                 └─────────┬─────────┘
+                           ▼
+                      Controller
+                           │
+                           ▼
+                       Service
+                    ┌──────┼──────┐
+                    ▼      ▼      ▼
+                   SQL   NoSQL   Redis
+                    │      │      │
+                    └──────┼──────┘
+                           ▼
+                   External Services
+```
+
+</div>
+
+---
+
+# `04 // ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cuognit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950&rank_icon=github" height="175" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuognit&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="175" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=cuognit&theme=dark&background=0D1117&hide_border=true&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cuognit&bg_color=0D1117&color=58A6FF&line=3FB950&point=F0883E&area=true&hide_border=true&custom_title=COMMIT%20ACTIVITY" width="100%" />
+
+</div>
+
+---
+
+# `05 // CONTRIBUTIONS`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+
+</div>
+
+---
+
+# `06 // CURRENTLY`
+
+```text
+[████████████████████░░░░░░░░] BACKEND ENGINEERING
+
+> database design
+> API architecture
+> authentication / authorization
+> Redis / asynchronous processing
+> real-time systems
+> system design fundamentals
+> AI integration
+
+STATUS: ONLINE
+```
+
+---
+
+# `07 // DEVELOPMENT LOOP`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=UNDERSTAND;BUILD;ANALYZE;IMPROVE;SHIP;REPEAT" alt="Development loop" />
+
+</div>
+
+---
+
+<div align="center">
+
+`[ BUILDING ]` → `[ LEARNING ]` → `[ SHIPPING ]` → `[ IMPROVING ]`
+
+<br/><br/>
 
 <a href="https://github.com/cuognit">
-<img src="https://img.shields.io/badge/Explore%20my%20GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-cuognit-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
 </a>
 
 <br/><br/>
 
-<sub>Backend systems • Full-stack applications • Real-time systems • AI-powered software</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=cuognit&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%" />
 
 </div>
