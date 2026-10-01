@@ -15,65 +15,23 @@
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ## 👨‍💻 About Me
 
 I'm **Nguyễn Mạnh Cường**, a final-year software engineering student focused on **backend and full-stack web development**.
 
-I like understanding how software works behind the interface — from API design and authentication to databases, caching, real-time communication and asynchronous processing.
+I enjoy understanding what happens behind the interface — API design, authentication, databases, caching, real-time communication and asynchronous processing.
 
-**Current direction**
+### Current Direction
 
 ```text
 Backend Engineering
         +
 Full-stack Development
         +
-System Design Fundamentals
+System Design
         +
 AI-powered Applications
 ```
-
-</td>
-
-<td width="45%" valign="top">
-
-## 📌 Profile
-
-```yaml
-Name: Nguyễn Mạnh Cường
-Username: cuognit
-
-Focus:
-  - Backend
-  - Full-stack
-
-Primary:
-  - Node.js
-  - Express
-  - Spring Boot
-
-Data:
-  - PostgreSQL
-  - MongoDB
-  - Redis
-
-Frontend:
-  - React
-  - Next.js
-  - TypeScript
-
-Mindset:
-  Build → Understand
-  → Improve → Ship
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -81,57 +39,39 @@ Mindset:
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+### ⚙️ BACKEND
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 
-Node.js  
-Express  
-Spring Boot  
-REST APIs  
-JWT / RBAC
+<br/>
 
-</td>
-<td align="center" width="25%">
+`REST API` · `JWT` · `RBAC` · `MVC` · `Layered Architecture`
 
-### 🗄️ Data
+<br/><br/>
 
-PostgreSQL  
-MongoDB  
-Redis  
-JPA  
-Sequelize  
-TypeORM
+### 🗄️ DATA
 
-</td>
-<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 
-### ⚡ Systems
+<br/>
 
-WebSocket  
-STOMP  
-Socket.IO  
-BullMQ  
-Workers  
-Caching
+`PostgreSQL` · `MongoDB` · `Redis` · `JPA` · `Sequelize` · `TypeORM`
 
-</td>
-<td align="center" width="25%">
+<br/><br/>
+
+### ⚡ REAL-TIME & ASYNC
+
+<img src="https://skillicons.dev/icons?i=socketio,rabbitmq,docker" />
+
+<br/>
+
+`WebSocket` · `STOMP` · `Socket.IO` · `BullMQ` · `Workers` · `Caching`
+
+<br/><br/>
 
 ### 🤖 AI
 
-LLM APIs  
-Gemini  
-Embeddings  
-Semantic Search  
-RAG  
-VTON
-
-</td>
-</tr>
-</table>
+`LLM APIs` · `Gemini` · `Embeddings` · `Semantic Search` · `RAG` · `VTON`
 
 </div>
 
@@ -141,23 +81,31 @@ VTON
 
 <div align="center">
 
-### Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,dart&perline=10" />
 
-### Backend
+<br/>
+
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=10" />
 
-### Frontend & Mobile
+<br/>
+
+**Frontend & Mobile**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter&perline=10" />
 
-### Databases & Infrastructure
+<br/>
+
+**Database & Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&perline=10" />
 
-### Tools
+<br/>
+
+**Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&perline=10" />
 
@@ -165,19 +113,21 @@ VTON
 
 ---
 
-# 🏗️ What I Work With
+# 🔐 Engineering Areas
 
 <div align="center">
 
-| Area | Focus |
-|:---:|:---|
-| 🔐 **Security** | Authentication · JWT · Refresh Tokens · Authorization · RBAC · Validation |
-| 🌐 **Backend** | REST API · MVC · Layered Architecture · Modular Design · Separation of Concerns |
-| 🗄️ **Data** | PostgreSQL · MongoDB · Redis · ORM / ODM · Migrations · Seed workflows |
-| ⚡ **Real-time** | WebSocket · STOMP · Socket.IO · Presence · Messaging · Notifications |
-| 🔄 **Async** | Redis queues · BullMQ · Background Workers · Deferred Processing |
-| ☁️ **Services** | Cloudinary · Email · External APIs · Payment integrations |
-| 🤖 **AI** | Gemini · LLM integration · Embeddings · Semantic Search · RAG · VTON |
+`AUTHENTICATION` · `AUTHORIZATION` · `JWT` · `RBAC`
+
+`REST API` · `VALIDATION` · `RATE LIMITING` · `ERROR HANDLING`
+
+`POSTGRESQL` · `MONGODB` · `REDIS` · `ORM / ODM`
+
+`WEBSOCKET` · `STOMP` · `SOCKET.IO` · `PRESENCE`
+
+`BULLMQ` · `BACKGROUND WORKERS` · `ASYNC PROCESSING`
+
+`CLOUDINARY` · `EMAIL` · `EXTERNAL APIs` · `AI / LLM APIs`
 
 </div>
 
@@ -191,11 +141,7 @@ VTON
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuognit&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="180" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=cuognit&theme=github-dark-blue&hide_border=true" />
 
@@ -247,10 +193,6 @@ VTON
 
 # 📚 Learning & Building
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Currently Deepening
 
 - Backend engineering
@@ -261,28 +203,25 @@ VTON
 - Real-time systems
 - System design fundamentals
 
-</td>
-<td width="50%" valign="top">
+### Development Loop
 
-### Development Approach
+<div align="center">
 
 ```text
-Understand the concept
-          ↓
-Build the feature
-          ↓
-Study the architecture
-          ↓
-Find the bottleneck
-          ↓
-Improve the implementation
-          ↓
+Understand
+    ↓
+Build
+    ↓
+Analyze
+    ↓
+Improve
+    ↓
+Ship
+    ↓
 Repeat
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
