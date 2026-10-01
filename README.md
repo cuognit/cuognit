@@ -1,252 +1,682 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0f172a&height=180&section=header&text=CUOGNIT&fontSize=52&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20Full-stack&descAlignY=62&descSize=18&descColor=e2e8f0" width="100%" />
-
 # Nguyễn Mạnh Cường
 
-### \`Backend Developer\` · \`Full-stack Developer\` · \`Problem Solver\`
+### `Backend-focused Full-Stack Developer`
 
-<p>
-  <a href="https://github.com/cuognit">
-    <img src="https://img.shields.io/badge/GitHub-cuognit-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:cuongct18.jr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+backend+systems+with+Node.js+%26+Spring+Boot;Designing+REST+APIs%2C+authentication+%26+RBAC;Working+with+PostgreSQL%2C+MongoDB+%26+Redis;Exploring+real-time+%26+AI-powered+applications" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+real+world+software+with+code.;Backend+%7C+APIs+%7C+Databases+%7C+Distributed+Systems;Learning+by+building%2C+debugging%2C+and+shipping.;Always+curious.+Always+building." />
+<br/>
+
+<a href="https://github.com/cuognit"><img src="https://img.shields.io/badge/GitHub-cuognit-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/cuognit"><img src="https://komarev.com/ghpvc/?username=cuognit&style=for-the-badge&color=58A6FF" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
-<table>
-<tr>
-<td width="58%" valign="top">
+I'm **Nguyễn Mạnh Cường**, a final-year software engineering student focused on **backend and full-stack web development**.
 
-### ⚡ Hey, I'm Cường
+I enjoy building applications that go beyond basic CRUD, with particular interest in:
 
-I'm a **Software Engineering student** focused on building modern applications with a strong interest in **backend engineering and full-stack development**.
+- 🔐 Authentication, authorization & RBAC
+- 🌐 REST API design
+- 🧩 Modular & layered backend architecture
+- 🗄️ Relational and NoSQL databases
+- ⚡ Redis, caching & asynchronous processing
+- 🔄 Real-time communication
+- 🛒 E-commerce business systems
+- 🤖 AI-powered application features
 
-<br/>
+My current direction is to become a stronger **backend engineer** while maintaining full-stack development capability.
 
-<img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full--stack-38bdf8?style=flat-square" />
-<img src="https://img.shields.io/badge/Learning-Modern%20Web-8b5cf6?style=flat-square" />
-<img src="https://img.shields.io/badge/Mindset-Build%20%26%20Ship-ec4899?style=flat-square" />
+---
 
-</td>
-<td width="42%" valign="top">
+# `> engineering stack`
 
-### 🚀 Quick Profile
+<div align="center">
 
-```yaml
-Name: Nguyễn Mạnh Cường
-Alias: Cuognit
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&perline=8" />
 
-Focus:
-  - Backend
-  - Full-stack
+### Database & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&perline=8" />
 
-Currently:
-  - TypeScript
-  - React
-  - Next.js
-  - Flutter
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,vite,tailwind&perline=8" />
 
-Mindset:
-  Build → Understand
-  → Improve → Ship
+### Languages & Tools
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,git,github,postman,vscode&perline=8" />
+
+</div>
+
+---
+
+# `> engineering foundations`
+
+```text
+Architecture
+│
+├── MVC
+├── Layered Architecture
+├── Modular Architecture
+├── REST API Design
+└── Separation of Concerns
+│
+Security
+│
+├── Authentication
+├── JWT
+├── Refresh Tokens
+├── Authorization
+├── RBAC
+├── Validation
+└── Rate Limiting
+│
+Data
+│
+├── PostgreSQL
+├── MongoDB
+├── Redis
+├── JPA
+├── Sequelize
+├── TypeORM
+└── Mongoose
+│
+Distributed Features
+│
+├── WebSocket
+├── STOMP
+├── Socket.IO
+├── BullMQ
+└── Background Workers
+│
+External Services
+│
+├── Cloudinary
+├── Email
+├── Payment Services
+└── AI / LLM APIs
 ```
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+# `> featured systems`
 
-<div align="center">
+## 🛍️ AI-Powered Fashion E-commerce
 
-<img src="https://img.shields.io/badge/Backend-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Databases-0f172a?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Architecture-0f172a?style=for-the-badge&logo=dependabot&logoColor=38bdf8" />
+**Full-stack e-commerce system combining conventional backend engineering with AI-powered application features.**
 
-</div>
+```text
+Node.js · Express · MongoDB · Mongoose
+JWT · RBAC · Zod · Redis
+Socket.IO · Cloudinary
+Gemini · Embeddings · RAG · VTON
+```
+
+### Core Engineering
+
+- 🔐 Authentication & authorization
+- 👤 User & admin management
+- 🛒 Cart & wishlist
+- 📦 Product & catalog management
+- 🧾 Order management
+- 💳 Payment workflow
+- ⭐ Product reviews
+- 🔔 Notifications
+- 💬 Real-time chat
+- 🔎 Search & catalog search
+- 📊 Admin analytics
+- ☁️ Cloud media management
+
+### AI Layer
+
+- 🤖 Gemini-powered features
+- 🧠 Embedding-based search
+- 🔎 Semantic search
+- 📚 RAG-related workflows
+- 👗 AI virtual try-on
+- ⚙️ AI processing / worker utilities
+- 🌱 Seed & migration utilities
+
+**Repository:**  
+→ [AI-Powered-Fashion-E-commerce](https://github.com/cuognit/AI-Powered-Fashion-E-commerce)
 
 ---
 
-## ⚡ Tech Stack
+## 💬 HoLa Chat
 
-<div align="center">
+**Real-time communication platform built with Spring Boot and React.**
 
-### 💻 Languages
+```text
+Java 21 · Spring Boot
+Spring Security · JWT
+PostgreSQL · JPA
+Redis · Redisson
+WebSocket · STOMP
+React · Vite
+Cloudinary · Firebase · LiveKit
+```
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,dart&perline=8" />
+### Backend
 
-<br/><br/>
+- 🔐 JWT authentication
+- 🛡️ Spring Security
+- 👥 Private & group communication
+- ⚡ Real-time messaging
+- 🟢 Online presence
+- 🔔 Notification workflows
+- 📩 Email integration
+- 🖼️ Cloud media storage
+- 🗄️ PostgreSQL persistence
+- ⚡ Redis / Redisson state management
 
-### 🧠 Backend & APIs
+### Architecture
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=8" />
+```text
+Controller
+    ↓
+DTO
+    ↓
+Service
+    ↓
+Repository
+    ↓
+PostgreSQL
 
-<br/><br/>
+          ↘ Redis / Redisson
+          ↘ WebSocket / STOMP
+          ↘ External Services
+```
 
-### 🎨 Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=8" />
-
-<br/><br/>
-
-### 🗄️ Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,linux&perline=8" />
-
-</div>
+**Repository:**  
+→ [HoLaChat](https://github.com/cuognit/HoLaChat)
 
 ---
 
-## 🧩 Engineering Playground
+## 🎵 WebMusic
 
-<div align="center">
+**Music platform built around Express, MongoDB and Redis with asynchronous OTP processing.**
+
+```text
+Node.js · Express
+MongoDB · Mongoose
+Redis · BullMQ
+Session Authentication
+Handlebars · SCSS
+```
+
+### Highlights
+
+- 🔐 Authentication & session management
+- 📧 OTP verification
+- ⚡ Redis-backed processing
+- 🔄 Queue / worker architecture
+- 🎵 Music management
+- 📚 Playlist management
+- 👤 User management
+- 🛠️ Admin module
+- 🎨 Server-rendered UI
+
+### Processing Flow
+
+```text
+Request
+   │
+   ▼
+Express API
+   │
+   ▼
+Redis Queue
+   │
+   ▼
+BullMQ Worker
+   │
+   ▼
+Background Processing
+```
+
+**Repository:**  
+→ [WebMusic](https://github.com/cuognit/WebMusic)
+
+---
+
+## 📦 Project_Int
+
+**Order management system combining relational data, ORM, authentication and real-time communication.**
+
+```text
+Node.js · Express
+PostgreSQL · Sequelize
+JWT · bcrypt
+Zod
+Socket.IO
+React · Vite
+Recharts
+```
+
+### Focus
+
+- REST API
+- Authentication
+- Password hashing
+- Input validation
+- Relational data modelling
+- ORM-based persistence
+- Order management
+- Real-time communication
+- Dashboard & data visualization
+- Database seed / migration workflow
+
+**Repository:**  
+→ [Project_Int](https://github.com/cuognit/Project_Int)
+
+---
+
+## 💼 Job Platform
+
+**Collaborative job-platform project with a modular backend and relational data model.**
+
+```text
+Express · TypeORM
+PostgreSQL
+Next.js
+```
+
+### Domain Modules
+
+```text
+Authentication
+│
+├── Users
+├── Roles & Permissions
+│
+Company & Recruitment
+│
+├── Companies
+├── Jobs
+├── Categories
+├── Skills
+│
+Candidate
+│
+├── Candidate Profiles
+├── Resumes
+├── Educations
+├── Work Experiences
+│
+Application
+│
+├── Applications
+├── Saved Jobs
+├── Notifications
+│
+Administration
+│
+├── Statistics
+└── System Logs
+```
+
+> Collaborative project — repository scope represents the overall system; individual contribution should be interpreted separately.
+
+---
+
+# `> what I build`
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="50%">
 
-### 🏛️ Architecture
+### 🔐 Secure APIs
 
-<img src="https://img.shields.io/badge/MVC-111827?style=flat-square&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/REST%20API-111827?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/Modular%20Design-111827?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/DDD%20Thinking-111827?style=flat-square" />
+JWT, refresh tokens, authentication, authorization, RBAC, validation and rate limiting.
 
 </td>
-<td width="25%" align="center">
+<td width="50%">
 
-### ⚙️ Backend
+### 🗄️ Data Systems
 
-<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=68a063" /><br/>
-<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=6db33f" /><br/>
-<img src="https://img.shields.io/badge/JWT%20%2F%20RBAC-111827?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" />
+PostgreSQL, MongoDB, ORM/ODM, Redis, migrations and seed workflows.
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td width="50%">
 
-### 🗄️ Data
+### ⚡ Real-time Systems
 
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169e1" /><br/>
-<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47a248" /><br/>
-<img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=dc382d" /><br/>
-<img src="https://img.shields.io/badge/ORM%20%2F%20ODM-111827?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/Normalization-111827?style=flat-square" />
+WebSocket, STOMP, Socket.IO, presence and real-time messaging.
 
 </td>
-<td width="25%" align="center">
+<td width="50%">
 
-### 🛠️ Engineering
+### 🔄 Async Processing
 
-<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=f05032" /><br/>
-<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ed" /><br/>
-<img src="https://img.shields.io/badge/API%20Testing-111827?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/Debugging-111827?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/Deployment-111827?style=flat-square" />
+Redis-backed queues, BullMQ and background workers.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 Business Systems
+
+E-commerce, products, carts, orders, payments, reviews and administration.
+
+</td>
+<td width="50%">
+
+### 🤖 AI Applications
+
+Gemini, embeddings, semantic search, RAG and AI-powered application features.
 
 </td>
 </tr>
 </table>
 
+---
+
+# `> backend architecture`
+
+```text
+                        CLIENT
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │    REST API     │
+                 └────────┬────────┘
+                          │
+                    Middleware
+                          │
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+   Authentication    Authorization    Validation
+          │               │               │
+          └───────────────┼───────────────┘
+                          ▼
+                    ┌──────────┐
+                    │Controller│
+                    └────┬─────┘
+                         ▼
+                    ┌──────────┐
+                    │ Service  │
+                    └────┬─────┘
+                         │
+              ┌──────────┼──────────┐
+              ▼          ▼          ▼
+          PostgreSQL   MongoDB    Redis
+              │          │          │
+              └──────────┼──────────┘
+                         ▼
+                 External Services
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+       Cloudinary      Email          AI APIs
+```
+
+---
+
+# `> real-time & asynchronous systems`
+
+### Real-time
+
+```text
+Client
+  │
+  ▼
+WebSocket / STOMP / Socket.IO
+  │
+  ▼
+Backend
+  │
+  ├── Presence
+  ├── Messaging
+  ├── Notifications
+  └── Events
+```
+
+### Asynchronous
+
+```text
+Client
+  │
+  ▼
+API
+  │
+  ▼
+Queue
+  │
+  ▼
+Redis / BullMQ
+  │
+  ▼
+Worker
+  │
+  ▼
+Background Job
+```
+
+**Synchronous request/response when immediate feedback is required; asynchronous processing when work can be deferred.**
+
+---
+
+# `> ai engineering`
+
+My AI work focuses on **integrating AI into software systems**, rather than treating AI as an isolated model.
+
+```text
+Application
+     │
+     ▼
+Backend API
+     │
+     ├───────────────┐
+     ▼               ▼
+ Gemini API       AI Worker
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+      Embedding     RAG        VTON
+          │
+          ▼
+    Semantic Search
+          │
+          ▼
+     Application
+```
+
+Areas explored:
+
+- LLM API integration
+- Gemini
+- Embeddings
+- Semantic search
+- RAG
+- AI-powered recommendations/features
+- Virtual try-on
+- AI processing workflows
+
+---
+
+# `> current direction`
+
+```text
+                    BACKEND ENGINEERING
+                            │
+          ┌─────────────────┼─────────────────┐
+          ▼                 ▼                 ▼
+        APIs             Databases          Security
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            ▼
+                  Distributed Systems
+                            │
+             ┌──────────────┴──────────────┐
+             ▼                             ▼
+        Real-time                      Async
+         Systems                     Processing
+             │                             │
+             └──────────────┬──────────────┘
+                            ▼
+                       AI Systems
+```
+
+Currently focusing on:
+
+- Backend engineering
+- Database design
+- API architecture
+- Authentication & authorization
+- Redis and asynchronous processing
+- Real-time systems
+- System design fundamentals
+- Production-oriented development
+
+---
+
+# `> beyond CRUD`
+
+> **Good backend engineering is more than making endpoints work.**
+
+```text
+                    HTTP Request
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │ Middleware  │
+                  └──────┬──────┘
+                         │
+             ┌───────────┼───────────┐
+             ▼           ▼           ▼
+            Auth        RBAC      Validation
+             │           │           │
+             └───────────┼───────────┘
+                         ▼
+                    Controller
+                         │
+                         ▼
+                     Service
+                         │
+              ┌──────────┼──────────┐
+              ▼          ▼          ▼
+          Database     Redis    External API
+              │          │          │
+              └──────────┼──────────┘
+                         ▼
+                      Response
+```
+
+The goal is not only to write code that works, but to understand:
+
+```text
+How data moves
+How users are authenticated
+How permissions are enforced
+How failures are handled
+How state is managed
+How asynchronous work is processed
+How components communicate
+How the system evolves
+```
+
+---
+
+# `> github activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cuognit&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuognit&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=cuognit&theme=github-dark-blue&hide_border=true" />
+
 </div>
 
 ---
 
-## 🚀 Featured Work
-
-> Most of my repositories are built as hands-on engineering projects — focusing on architecture, APIs, databases and real application workflows.
-
-| Project | Focus | Stack |
-|---|---|---|
-| 🎓 Course Platform | Courses, authentication, OTP, sessions, learning flow | Node.js · Express · MongoDB |
-| 💬 Real-time Chat | JWT, refresh token, rooms, presence, unread messages | Spring Boot · React · PostgreSQL · Redis |
-| 🛒 E-commerce API | Orders, products, cart, vouchers, RBAC, dashboard | Express · PostgreSQL · Sequelize |
-| 🎯 Job Platform | Companies, recruitment, users and job workflows | Node.js · PostgreSQL |
-| 📱 Flutter Apps | Cross-platform mobile development | Flutter · Dart |
-
----
-
-## 📊 GitHub Stats
+# `> contribution graph`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cuognit&show_icons=true&hide_border=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuognit&layout=compact&hide_border=true&theme=transparent&title_color=38bdf8&text_color=cbd5e1&langs_count=8" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cuognit&hide_border=true&theme=transparent&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=94a3b8" width="70%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cuognit&theme=github-compact&hide_border=true&area=true&custom_title=Nguy%E1%BB%85n%20M%E1%BA%A1nh%20C%C6%B0%E1%BB%9Dng%20%E2%80%94%20Contribution%20Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+# `> selected repositories`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<a href="https://github.com/cuognit/AI-Powered-Fashion-E-commerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cuognit&repo=AI-Powered-Fashion-E-commerce&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/cuognit/HoLaChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cuognit&repo=HoLaChat&theme=github_dark&hide_border=true" /></a>
+
+<br/>
+
+<a href="https://github.com/cuognit/WebMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cuognit&repo=WebMusic&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/cuognit/Project_Int"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cuognit&repo=Project_Int&theme=github_dark&hide_border=true" /></a>
 
 </div>
 
 ---
 
-## 🎯 Current Direction
+# `> philosophy`
+
+```text
+Learn the concept
+       ↓
+Build the feature
+       ↓
+Understand the architecture
+       ↓
+Find the bottleneck
+       ↓
+Improve the implementation
+       ↓
+Repeat
+```
+
+I am particularly interested in the transition from:
+
+```text
+"Can I make it work?"
+          ↓
+"Do I understand why it works?"
+          ↓
+"Can I design it better?"
+          ↓
+"Can I build it reliably?"
+```
+
+---
+
+# `> let's connect`
 
 <div align="center">
 
-### Backend → Full-stack → Software Engineering
+<a href="https://github.com/cuognit">
+<img src="https://img.shields.io/badge/GitHub-cuognit-181717?style=for-the-badge&logo=github" />
+</a>
 
-**Deepen fundamentals**  
-↓  
-**Build production-style projects**  
-↓  
-**Learn architecture & system design**  
-↓  
-**Ship better software**
+<br/><br/>
+
+### `Building → Learning → Shipping → Improving`
+
+<br/>
+
+<sub>Backend systems • Full-stack applications • Real-time systems • AI-powered software</sub>
 
 </div>
 
 ---
 
-## 📚 Learning Philosophy
-
-> **Don't just learn the syntax. Understand the system behind it.**
-
-I focus on understanding **why** a technology is used, how components interact, where trade-offs exist, and how the same concepts apply across different stacks.
-
----
-
 <div align="center">
 
-### 💙 Thanks for visiting
-
-If you find something interesting here, feel free to explore the repositories.
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=cuognit&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" />
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:0f172a&height=100&section=footer" width="100%" />
+<sub>Built with curiosity, caffeine, and too many terminal windows.</sub>
 
 </div>
