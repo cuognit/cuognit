@@ -23,123 +23,145 @@
 
 ## 👨‍💻 About Me
 
-\`\`\`ts
-const cuognit = {
-  name: "Nguyễn Mạnh Cường",
-  alias: "Cuognit",
-  focus: ["Backend Development", "Full-stack Development"],
-  currentlyLearning: ["TypeScript", "React", "Next.js", "Flutter"],
-  backend: ["Node.js", "Express", "Spring Boot"],
-  databases: ["PostgreSQL", "MongoDB", "Redis"],
-  interests: ["Software Architecture", "APIs", "DevOps", "Developer Tools"],
-  mindset: "Build → Understand → Improve → Ship"
-};
-\`\`\`
-
-- 🎓 Final-year Software Engineering student.
-- 🔨 Build applications from database design to API and frontend.
-- 🧠 Interested in **backend architecture, authentication, databases, caching and scalable systems**.
-- 🚀 Prefer learning technologies through real projects rather than isolated tutorials.
-- 🤝 Open to collaboration, internships and interesting software projects.
-
----
-
-## ⚡ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,dart" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
-
-### Frontend & Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter" />
-</p>
-
-### Databases & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,linux" />
-</p>
-
----
-
-## 🧩 What I Build
-
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="top">
 
-### 🔐 Backend Systems
+### ⚡ Hey, I'm Cường
 
-- RESTful APIs
-- Authentication & Authorization
-- JWT / Refresh Tokens
-- RBAC
-- OTP & verification flows
-- File uploads
-- Caching & Redis
-- WebSocket / real-time features
+I'm a **Software Engineering student** focused on building modern applications with a strong interest in **backend engineering and full-stack development**.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Backend%20%26%20Full--stack-38bdf8?style=flat-square" />
+<img src="https://img.shields.io/badge/Learning-Modern%20Web-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/Mindset-Build%20%26%20Ship-ec4899?style=flat-square" />
 
 </td>
-<td width="50%">
+<td width="42%" valign="top">
 
-### 🛒 Full-stack Applications
+### 🚀 Quick Profile
 
-- E-commerce platforms
-- Course platforms
-- Job platforms
-- Real-time chat systems
-- Admin dashboards
-- Authentication systems
-- Notification systems
-- Payment / order workflows
+```yaml
+Name: Nguyễn Mạnh Cường
+Alias: Cuognit
+
+Focus:
+  - Backend
+  - Full-stack
+
+Currently:
+  - TypeScript
+  - React
+  - Next.js
+  - Flutter
+
+Mindset:
+  Build → Understand
+  → Improve → Ship
+```
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Databases-0f172a?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Architecture-0f172a?style=for-the-badge&logo=dependabot&logoColor=38bdf8" />
+
+</div>
+
 ---
 
-## 🏗️ Engineering Interests
+## ⚡ Tech Stack
 
-\`\`\`text
-Architecture
-├── MVC
-├── Clean Architecture
-├── REST API Design
-├── Modular Design
-└── Domain-driven thinking
+<div align="center">
 
-Backend
-├── Node.js / Express
-├── Spring Boot
-├── Authentication
-├── Authorization / RBAC
-└── Real-time communication
+### 💻 Languages
 
-Data
-├── PostgreSQL
-├── MongoDB
-├── Redis
-├── ORM / ODM
-└── Database normalization
+<img src="https://skillicons.dev/icons?i=js,ts,java,dart&perline=8" />
 
-Engineering
-├── Git / GitHub
-├── Docker
-├── API testing
-├── Debugging
-└── Deployment
-\`\`\`
+<br/><br/>
+
+### 🧠 Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=8" />
+
+<br/><br/>
+
+### 🎨 Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter&perline=8" />
+
+<br/><br/>
+
+### 🗄️ Data & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,linux&perline=8" />
+
+</div>
+
+---
+
+## 🧩 Engineering Playground
+
+<div align="center">
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🏛️ Architecture
+
+<img src="https://img.shields.io/badge/MVC-111827?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/REST%20API-111827?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Modular%20Design-111827?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/DDD%20Thinking-111827?style=flat-square" />
+
+</td>
+<td width="25%" align="center">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=68a063" /><br/>
+<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=6db33f" /><br/>
+<img src="https://img.shields.io/badge/JWT%20%2F%20RBAC-111827?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" />
+
+</td>
+<td width="25%" align="center">
+
+### 🗄️ Data
+
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169e1" /><br/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47a248" /><br/>
+<img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=dc382d" /><br/>
+<img src="https://img.shields.io/badge/ORM%20%2F%20ODM-111827?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Normalization-111827?style=flat-square" />
+
+</td>
+<td width="25%" align="center">
+
+### 🛠️ Engineering
+
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=f05032" /><br/>
+<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ed" /><br/>
+<img src="https://img.shields.io/badge/API%20Testing-111827?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Debugging-111827?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Deployment-111827?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
