@@ -28,30 +28,30 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 <table>
-  <tr>
-    <td width="64%" valign="top">
-      <h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave" /> Hey there! I'm Nguyễn Mạnh Cường</h3>
-      <p>
-        A final-year Software Engineering student dedicated to <strong>Backend Architecture</strong>, <strong>Distributed Systems</strong>, and <strong>Applied AI Engineering</strong>.
-      </p>
-      <p>
-        🔭 <b>Currently working on:</b> High-throughput fashion e-commerce & intelligent AI conversational agents.<br/>
-        🌱 <b>Currently mastering:</b> System design, distributed caching with Redis, and RAG pipelines.<br/>
-        💬 <b>Ask me about:</b> <code>Java</code>, <code>Spring Boot</code>, <code>Node.js</code>, <code>WebSockets/STOMP</code>, <code>PostgreSQL</code>, <code>MongoDB</code>.<br/>
-        ⚡ <b>Fun fact:</b> Obsessed with optimizing API response times and designing sleek developer workflows.
-      </p>
-    </td>
-    <td width="36%" valign="top">
-      <h3>⚡ Quick Highlights</h3>
-      <p>
-        🎯 <b>Primary Focus:</b> Java (Spring Boot) & Node.js<br/>
-        🎨 <b>Modern Frontend:</b> React 19, TypeScript, Tailwind<br/>
-        🤖 <b>Applied AI:</b> Gemini API, Embeddings, Vector Search<br/>
-        📍 <b>Location:</b> Hanoi, Vietnam<br/>
-        📬 <b>Direct Email:</b> <a href="mailto:cuongct18.jr@gmail.com">cuongct18.jr@gmail.com</a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="64%" valign="top">
+<h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave" /> Hey there! I'm Nguyễn Mạnh Cường</h3>
+<p>
+A final-year Software Engineering student dedicated to <strong>Backend Architecture</strong>, <strong>Distributed Systems</strong>, and <strong>Applied AI Engineering</strong>.
+</p>
+<p>
+🔭 <b>Currently working on:</b> High-throughput fashion e-commerce & intelligent AI conversational agents.<br/>
+🌱 <b>Currently mastering:</b> System design, distributed caching with Redis, and RAG pipelines.<br/>
+💬 <b>Ask me about:</b> Java, Spring Boot, Node.js, WebSockets/STOMP, PostgreSQL, MongoDB.<br/>
+⚡ <b>Fun fact:</b> Obsessed with optimizing API response times and designing sleek developer workflows.
+</p>
+</td>
+<td width="36%" valign="top">
+<h3>⚡ Quick Highlights</h3>
+<p>
+🎯 <b>Primary Focus:</b> Java (Spring Boot) & Node.js<br/>
+🎨 <b>Modern Frontend:</b> React 19, TypeScript, Tailwind<br/>
+🤖 <b>Applied AI:</b> Gemini API, Embeddings, Vector Search<br/>
+📍 <b>Location:</b> Hanoi, Vietnam<br/>
+📬 <b>Direct Email:</b> <a href="mailto:cuongct18.jr@gmail.com">cuongct18.jr@gmail.com</a>
+</p>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -99,101 +99,95 @@
 <h2 align="center">🚀 Featured Engineering Projects</h2>
 
 <table width="100%">
-  <tr>
-    <!-- Project 1 -->
-    <td width="50%" valign="top">
-      <h3>🛍️ AI Fashion E-commerce</h3>
-      <p><em>Modern full-stack fashion commerce platform with conversational AI stylist & vector search.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Gemini_AI-4E75F6?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
-        <img src="https://img.shields.io/badge/VNPay-005BAA?style=flat-square" alt="VNPay" />
-      </p>
-      <ul>
-        <li><strong>AI Stylist & RAG:</strong> Conversational shopping assistant powered by Gemini API & MongoDB Atlas Vector Search with SSE streaming response.</li>
-        <li><strong>Payment & Security:</strong> Integrated VNPay gateway, secure JWT refresh tokens, and multi-tier RBAC (Admin, Staff, Customer).</li>
-        <li><strong>Analytics:</strong> Interactive revenue, order fulfillment, and inventory analytics dashboard with Recharts.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/cuognit/AI-Powered-Fashion-E-commerce">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </p>
-    </td>
-
-    <!-- Project 2 -->
-    <td width="50%" valign="top">
-      <h3>💬 HoLaChat — Real-Time Messenger</h3>
-      <p><em>High-concurrency instant messaging application built with Spring Boot and reactive patterns.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
-        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
-        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-      <ul>
-        <li><strong>Real-time Messaging:</strong> Low-latency bi-directional messaging over WebSocket & STOMP protocols.</li>
-        <li><strong>Presence & Scalability:</strong> Redis-powered online/offline presence tracking and message pub/sub.</li>
-        <li><strong>Enterprise Security:</strong> Spring Security with JWT authentication & OTP email verification for password recovery.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/cuognit/HoLaChat">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 3 -->
-    <td width="50%" valign="top">
-      <h3>🎵 WebMusic — Streaming Platform</h3>
-      <p><em>Full-featured music streaming platform with track management, analytics & live deployment.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
-      </p>
-      <ul>
-        <li><strong>Streaming & Playback:</strong> Audio player with favorites, personalized listening history, and play counts.</li>
-        <li><strong>Admin Management:</strong> Complete song CRUD, soft-delete trash recovery, and analytics dashboard.</li>
-        <li><strong>Cloud Deployed:</strong> Live on Render with rate-limiting, session control, and bcrypt encryption.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/cuognit/WebMusic">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-        &nbsp;
-        <a href="https://webmusic-7vy8.onrender.com">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&logo=render&logoColor=black" alt="Live Demo" />
-        </a>
-      </p>
-    </td>
-
-    <!-- Project 4 -->
-    <td width="50%" valign="top">
-      <h3>📦 Order Management System</h3>
-      <p><em>Modern order workflow and transactional management dashboard for operations.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      </p>
-      <ul>
-        <li><strong>Responsive Operations:</strong> Dynamic filtering, order lifecycle management, and instant state updates.</li>
-        <li><strong>Modular API:</strong> RESTful API backend handling transactional order pipelines and reporting.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/cuognit/Project_Int">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛍️ AI Fashion E-commerce</h3>
+<p><em>Modern full-stack fashion commerce platform with conversational AI stylist & vector search.</em></p>
+<p>
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Gemini_AI-4E75F6?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+<img src="https://img.shields.io/badge/VNPay-005BAA?style=flat-square" alt="VNPay" />
+</p>
+<ul>
+<li><strong>AI Stylist & RAG:</strong> Conversational shopping assistant powered by Gemini API & MongoDB Atlas Vector Search with SSE streaming response.</li>
+<li><strong>Payment & Security:</strong> Integrated VNPay gateway, secure JWT refresh tokens, and multi-tier RBAC (Admin, Staff, Customer).</li>
+<li><strong>Analytics:</strong> Interactive revenue, order fulfillment, and inventory analytics dashboard with Recharts.</li>
+</ul>
+<p align="center">
+<a href="https://github.com/cuognit/AI-Powered-Fashion-E-commerce">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>💬 HoLaChat — Real-Time Messenger</h3>
+<p><em>High-concurrency instant messaging application built with Spring Boot and reactive patterns.</em></p>
+<p>
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+<img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+<ul>
+<li><strong>Real-time Messaging:</strong> Low-latency bi-directional messaging over WebSocket & STOMP protocols.</li>
+<li><strong>Presence & Scalability:</strong> Redis-powered online/offline presence tracking and message pub/sub.</li>
+<li><strong>Enterprise Security:</strong> Spring Security with JWT authentication & OTP email verification for password recovery.</li>
+</ul>
+<p align="center">
+<a href="https://github.com/cuognit/HoLaChat">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎵 WebMusic — Streaming Platform</h3>
+<p><em>Full-featured music streaming platform with track management, analytics & live deployment.</em></p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+</p>
+<ul>
+<li><strong>Streaming & Playback:</strong> Audio player with favorites, personalized listening history, and play counts.</li>
+<li><strong>Admin Management:</strong> Complete song CRUD, soft-delete trash recovery, and analytics dashboard.</li>
+<li><strong>Cloud Deployed:</strong> Live on Render with rate-limiting, session control, and bcrypt encryption.</li>
+</ul>
+<p align="center">
+<a href="https://github.com/cuognit/WebMusic">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+</a>
+&nbsp;
+<a href="https://webmusic-7vy8.onrender.com">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&logo=render&logoColor=black" alt="Live Demo" />
+</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>📦 Order Management System</h3>
+<p><em>Modern order workflow and transactional management dashboard for operations.</em></p>
+<p>
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+</p>
+<ul>
+<li><strong>Responsive Operations:</strong> Dynamic filtering, order lifecycle management, and instant state updates.</li>
+<li><strong>Modular API:</strong> RESTful API backend handling transactional order pipelines and reporting.</li>
+</ul>
+<p align="center">
+<a href="https://github.com/cuognit/Project_Int">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+</a>
+</p>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -202,21 +196,21 @@
 <h2 align="center">📊 GitHub Metrics & Insights</h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=cuognit&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=38BDF8&bg_color=0D1117&title_color=38BDF8&icon_color=00E5FF&text_color=94A3B8" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=cuognit&theme=tokyonight&hide_border=false&border_radius=10&border=38BDF8&background=0D1117&ring=00E5FF&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&currStreakLabel=00E5FF&sideLabels=94A3B8" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuognit&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=38BDF8&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" alt="Top Languages" width="80%" />
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=cuognit&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=38BDF8&bg_color=0D1117&title_color=38BDF8&icon_color=00E5FF&text_color=94A3B8" alt="GitHub Stats" width="100%" />
+</td>
+<td align="center" width="50%">
+<img src="https://streak-stats.demolab.com/?user=cuognit&theme=tokyonight&hide_border=false&border_radius=10&border=38BDF8&background=0D1117&ring=00E5FF&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&currStreakLabel=00E5FF&sideLabels=94A3B8" alt="GitHub Streak" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuognit&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=38BDF8&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" alt="Top Languages" width="80%" />
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
