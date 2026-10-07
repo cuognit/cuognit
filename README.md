@@ -68,7 +68,7 @@ A final-year Software Engineering student dedicated to <strong>Backend Architect
   
   <p><strong>Backend, Frameworks & Databases</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastify,prisma,redis,postgres,mongodb,supabase&perline=9&theme=dark" alt="Backend and Databases" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,prisma,redis,postgres,mongodb,supabase&perline=8&theme=dark" alt="Backend and Databases" />
   </a>
   <br/><br/>
 
