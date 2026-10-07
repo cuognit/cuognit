@@ -29,28 +29,26 @@
 <!-- ==================== ABOUT ME ==================== -->
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <h3>👨‍💻 About Me</h3>
+    <td width="64%" valign="top">
+      <h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave" /> Hey there! I'm Nguyễn Mạnh Cường</h3>
       <p>
-        Hi! I'm <strong>Nguyễn Mạnh Cường</strong> (<strong>cuognit</strong>), a final-year Software Engineering student dedicated to <strong>Backend Architecture</strong> and <strong>Full-Stack Product Engineering</strong>.
+        A final-year Software Engineering student dedicated to <strong>Backend Architecture</strong>, <strong>Distributed Systems</strong>, and <strong>Applied AI Engineering</strong>.
       </p>
       <p>
-        I enjoy architecting high-throughput microservices/monoliths, designing resilient data pipelines, and enriching products with modern <strong>Applied AI, Vector Search, and Real-time Communication</strong>.
+        🔭 <b>Currently working on:</b> High-throughput fashion e-commerce & intelligent AI conversational agents.<br/>
+        🌱 <b>Currently mastering:</b> System design, distributed caching with Redis, and RAG pipelines.<br/>
+        💬 <b>Ask me about:</b> <code>Java</code>, <code>Spring Boot</code>, <code>Node.js</code>, <code>WebSockets/STOMP</code>, <code>PostgreSQL</code>, <code>MongoDB</code>.<br/>
+        ⚡ <b>Fun fact:</b> Obsessed with optimizing API response times and designing sleek developer workflows.
       </p>
-      <ul>
-        <li>🔭 <strong>Current Focus:</strong> Real-time architectures, distributed caching, and AI-driven workflows.</li>
-        <li>⚡ <strong>Core Competencies:</strong> WebSocket/STOMP streaming, Redis caching & presence, VNPay gateways, Spring Security & JWT RBAC.</li>
-        <li>🌱 <strong>Continually Mastering:</strong> System design, high-concurrency microservices, and RAG pipelines.</li>
-      </ul>
     </td>
-    <td width="35%" valign="top">
+    <td width="36%" valign="top">
       <h3>⚡ Quick Highlights</h3>
       <p>
-        🎯 <strong>Primary Stacks:</strong> Java (Spring Boot) & Node.js<br/>
-        🎨 <strong>Modern Frontend:</strong> React 19, TypeScript, Tailwind CSS<br/>
-        🤖 <strong>AI & Data:</strong> Gemini API, RAG, Atlas Vector Search<br/>
-        📬 <strong>Email:</strong> <a href="mailto:cuongct18.jr@gmail.com">cuongct18.jr@gmail.com</a><br/>
-        💼 <strong>Availability:</strong> Ready for Backend / Full-Stack opportunities
+        🎯 <b>Primary Focus:</b> Java (Spring Boot) & Node.js<br/>
+        🎨 <b>Modern Frontend:</b> React 19, TypeScript, Tailwind<br/>
+        🤖 <b>Applied AI:</b> Gemini API, Embeddings, Vector Search<br/>
+        📍 <b>Location:</b> Hanoi, Vietnam<br/>
+        📬 <b>Direct Email:</b> <a href="mailto:cuongct18.jr@gmail.com">cuongct18.jr@gmail.com</a>
       </p>
     </td>
   </tr>
@@ -89,10 +87,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Architecture-RESTful_APIs_%7C_MVC_%7C_Layered_Architecture-1E293B?style=flat-square&logo=blueprint&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Real--time-WebSocket_%7C_STOMP_%7C_SSE_%7C_Socket.io-1E293B?style=flat-square&logo=socketdotio&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Security-Spring_Security_%7C_JWT_%7C_RBAC_%7C_bcrypt-1E293B?style=flat-square&logo=auth0&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/AI_Integration-Gemini_1.5_%7C_Embeddings_%7C_RAG_%7C_Vector_Search-1E293B?style=flat-square&logo=googlegemini&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Architecture-RESTful_APIs_%7C_MVC_%7C_Layered_Architecture-1E293B?style=flat-square&logo=blueprint&logoColor=00E5FF" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Real--time-WebSocket_%7C_STOMP_%7C_SSE_%7C_Socket.io-1E293B?style=flat-square&logo=socketdotio&logoColor=00E5FF" alt="Real-time" />
+  <img src="https://img.shields.io/badge/Security-Spring_Security_%7C_JWT_%7C_RBAC_%7C_bcrypt-1E293B?style=flat-square&logo=auth0&logoColor=00E5FF" alt="Security" />
+  <img src="https://img.shields.io/badge/AI_Integration-Gemini_1.5_%7C_Embeddings_%7C_RAG_%7C_Vector_Search-1E293B?style=flat-square&logo=googlegemini&logoColor=00E5FF" alt="AI Integration" />
 </div>
 
 <br/>
@@ -107,11 +105,11 @@
       <h3>🛍️ AI Fashion E-commerce</h3>
       <p><em>Modern full-stack fashion commerce platform with conversational AI stylist & vector search.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-4E75F6?style=flat-square&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/VNPay-005BAA?style=flat-square" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4E75F6?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+        <img src="https://img.shields.io/badge/VNPay-005BAA?style=flat-square" alt="VNPay" />
       </p>
       <ul>
         <li><strong>AI Stylist & RAG:</strong> Conversational shopping assistant powered by Gemini API & MongoDB Atlas Vector Search with SSE streaming response.</li>
@@ -130,11 +128,11 @@
       <h3>💬 HoLaChat — Real-Time Messenger</h3>
       <p><em>High-concurrency instant messaging application built with Spring Boot and reactive patterns.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
       <ul>
         <li><strong>Real-time Messaging:</strong> Low-latency bi-directional messaging over WebSocket & STOMP protocols.</li>
@@ -154,10 +152,10 @@
       <h3>🎵 WebMusic — Streaming Platform</h3>
       <p><em>Full-featured music streaming platform with track management, analytics & live deployment.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
       </p>
       <ul>
         <li><strong>Streaming & Playback:</strong> Audio player with favorites, personalized listening history, and play counts.</li>
@@ -180,10 +178,10 @@
       <h3>📦 Order Management System</h3>
       <p><em>Modern order workflow and transactional management dashboard for operations.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
       </p>
       <ul>
         <li><strong>Responsive Operations:</strong> Dynamic filtering, order lifecycle management, and instant state updates.</li>
