@@ -4,11 +4,11 @@
 
 <div align="center">
   <!-- Dynamic Glowing Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:1E1B4B,50:0F172A,75:065F46,100:0284C7&height=220&section=header&text=NGUYEN%20MANH%20CUONG&fontSize=42&fontColor=38BDF8&animation=twinkling&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Applied%20AI&descAlignY=60&descSize=16&descColor=94A3B8" width="100%" alt="Nguyen Manh Cuong - Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:1E1B4B,50:0F172A,75:065F46,100:0284C7&height=220&section=header&text=NGUYEN%20MANH%20CUONG&fontSize=42&fontColor=38BDF8&animation=twinkling&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Distributed%20Systems&descAlignY=60&descSize=16&descColor=94A3B8" width="100%" alt="Nguyen Manh Cuong - Profile Header" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/cuognit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Passionate+Software+Engineer;%F0%9F%9A%80+Specializing+in+High-Performance+Backend;%F0%9F%9B%A1%EF%B8%8F+Architecting+Scalable+APIs+%26+Real-time+Apps;%F0%9F%A4%96+Integrating+AI+Systems+%26+Vector+Search" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Passionate+Software+Engineer;%F0%9F%9A%80+Specializing+in+High-Performance+Backend;%F0%9F%9B%A1%EF%B8%8F+Architecting+Scalable+APIs+%26+Monorepo+Platforms;%F0%9F%A4%96+Integrating+AI+Systems+%26+Distributed+Queues" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -32,21 +32,21 @@
 <td width="64%" valign="top">
 <h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave" /> Hey there! I'm Nguyễn Mạnh Cường</h3>
 <p>
-A final-year Software Engineering student dedicated to <strong>Backend Architecture</strong>, <strong>Distributed Systems</strong>, and <strong>Applied AI Engineering</strong>.
+A final-year Software Engineering student dedicated to <strong>Backend Architecture</strong>, <strong>Distributed Systems</strong>, and <strong>High-Performance Full-Stack Engineering</strong>.
 </p>
 <p>
-🔭 <b>Currently working on:</b> High-throughput fashion e-commerce & intelligent AI conversational agents.<br/>
-🌱 <b>Currently mastering:</b> System design, distributed caching with Redis, and RAG pipelines.<br/>
-💬 <b>Ask me about:</b> Java, Spring Boot, Node.js, WebSockets/STOMP, PostgreSQL, MongoDB.<br/>
-⚡ <b>Fun fact:</b> Obsessed with optimizing API response times and designing sleek developer workflows.
+🔭 <b>Currently working on:</b> Enterprise recruitment platforms, automated movie stream ingestion engines & AI shopping systems.<br/>
+🌱 <b>Currently mastering:</b> System design, distributed job queues (BullMQ/Redis), and scalable monorepos.<br/>
+💬 <b>Ask me about:</b> Java (Spring Boot), Node.js (Fastify, Express), Next.js, WebSockets, PostgreSQL, Prisma, TypeORM.<br/>
+⚡ <b>Fun fact:</b> Obsessed with optimizing throughput, cutting response times, and writing clean architecture.
 </p>
 </td>
 <td width="36%" valign="top">
 <h3>⚡ Quick Highlights</h3>
 <p>
-🎯 <b>Primary Focus:</b> Java (Spring Boot) & Node.js<br/>
-🎨 <b>Modern Frontend:</b> React 19, TypeScript, Tailwind<br/>
-🤖 <b>Applied AI:</b> Gemini API, Embeddings, Vector Search<br/>
+🎯 <b>Primary Stacks:</b> Java (Spring Boot), Node.js, Next.js<br/>
+🎨 <b>Modern Frontend:</b> Next.js 15, React 19, TypeScript, Tailwind<br/>
+🤖 <b>Distributed & AI:</b> BullMQ, Redis, Prisma, Gemini API<br/>
 📍 <b>Location:</b> Hanoi, Vietnam<br/>
 📬 <b>Direct Email:</b> <a href="mailto:cuongct18.jr@gmail.com">cuongct18.jr@gmail.com</a>
 </p>
@@ -68,17 +68,17 @@ A final-year Software Engineering student dedicated to <strong>Backend Architect
   
   <p><strong>Backend, Frameworks & Databases</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,redis,postgres,mongodb,supabase&perline=7&theme=dark" alt="Backend and Databases" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastify,prisma,redis,postgres,mongodb,supabase&perline=9&theme=dark" alt="Backend and Databases" />
   </a>
   <br/><br/>
 
   <p><strong>Frontend & UI Engineering</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,sass,bootstrap&perline=6&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,sass,bootstrap&perline=6&theme=dark" alt="Frontend" />
   </a>
   <br/><br/>
 
-  <p><strong>DevOps, Cloud & Tools</strong></p>
+  <p><strong>DevOps, Cloud & Automation Tools</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,vscode&perline=6&theme=dark" alt="DevOps and Tools" />
   </a>
@@ -87,10 +87,10 @@ A final-year Software Engineering student dedicated to <strong>Backend Architect
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Architecture-RESTful_APIs_%7C_MVC_%7C_Layered_Architecture-1E293B?style=flat-square&logo=blueprint&logoColor=00E5FF" alt="Architecture" />
-  <img src="https://img.shields.io/badge/Real--time-WebSocket_%7C_STOMP_%7C_SSE_%7C_Socket.io-1E293B?style=flat-square&logo=socketdotio&logoColor=00E5FF" alt="Real-time" />
-  <img src="https://img.shields.io/badge/Security-Spring_Security_%7C_JWT_%7C_RBAC_%7C_bcrypt-1E293B?style=flat-square&logo=auth0&logoColor=00E5FF" alt="Security" />
-  <img src="https://img.shields.io/badge/AI_Integration-Gemini_1.5_%7C_Embeddings_%7C_RAG_%7C_Vector_Search-1E293B?style=flat-square&logo=googlegemini&logoColor=00E5FF" alt="AI Integration" />
+  <img src="https://img.shields.io/badge/Architecture-RESTful_APIs_%7C_Monorepo_%7C_Layered_Clean_Architecture-1E293B?style=flat-square&logo=blueprint&logoColor=00E5FF" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Queues_%26_Real--time-BullMQ_%7C_Redis_PubSub_%7C_WebSocket_%7C_STOMP-1E293B?style=flat-square&logo=redis&logoColor=00E5FF" alt="Queues and Real-time" />
+  <img src="https://img.shields.io/badge/Security-Spring_Security_%7C_JWT_%7C_RBAC_%7C_Supabase_Auth-1E293B?style=flat-square&logo=auth0&logoColor=00E5FF" alt="Security" />
+  <img src="https://img.shields.io/badge/AI_%26_Automation-Gemini_1.5_%7C_Vector_Search_%7C_Playwright_%7C_Apify-1E293B?style=flat-square&logo=playwright&logoColor=00E5FF" alt="AI and Automation" />
 </div>
 
 <br/>
@@ -102,7 +102,7 @@ A final-year Software Engineering student dedicated to <strong>Backend Architect
 <tr>
 <td width="50%" valign="top">
 <h3>🛍️ AI Fashion E-commerce</h3>
-<p><em>Modern full-stack fashion commerce platform with conversational AI stylist & vector search.</em></p>
+<p><em>Full-stack fashion platform with Gemini AI stylist, RAG search & VNPay.</em></p>
 <p>
 <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -111,8 +111,8 @@ A final-year Software Engineering student dedicated to <strong>Backend Architect
 <img src="https://img.shields.io/badge/VNPay-005BAA?style=flat-square" alt="VNPay" />
 </p>
 <ul>
-<li><strong>AI Stylist & RAG:</strong> Conversational shopping assistant powered by Gemini API & MongoDB Atlas Vector Search with SSE streaming response.</li>
-<li><strong>Payment & Security:</strong> Integrated VNPay gateway, secure JWT refresh tokens, and multi-tier RBAC (Admin, Staff, Customer).</li>
+<li><strong>AI Stylist & RAG:</strong> Conversational shopping assistant powered by Gemini API & MongoDB Atlas Vector Search with SSE streaming.</li>
+<li><strong>Payment & Security:</strong> VNPay gateway, secure JWT refresh token rotation, and multi-tier RBAC.</li>
 <li><strong>Analytics:</strong> Interactive revenue, order fulfillment, and inventory analytics dashboard with Recharts.</li>
 </ul>
 <p align="center">
@@ -123,7 +123,7 @@ A final-year Software Engineering student dedicated to <strong>Backend Architect
 </td>
 <td width="50%" valign="top">
 <h3>💬 HoLaChat — Real-Time Messenger</h3>
-<p><em>High-concurrency instant messaging application built with Spring Boot and reactive patterns.</em></p>
+<p><em>High-concurrency instant messaging application built with Spring Boot.</em></p>
 <p>
 <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
 <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
@@ -134,7 +134,7 @@ A final-year Software Engineering student dedicated to <strong>Backend Architect
 <ul>
 <li><strong>Real-time Messaging:</strong> Low-latency bi-directional messaging over WebSocket & STOMP protocols.</li>
 <li><strong>Presence & Scalability:</strong> Redis-powered online/offline presence tracking and message pub/sub.</li>
-<li><strong>Enterprise Security:</strong> Spring Security with JWT authentication & OTP email verification for password recovery.</li>
+<li><strong>Enterprise Security:</strong> Spring Security with JWT authentication & OTP email verification.</li>
 </ul>
 <p align="center">
 <a href="https://github.com/cuognit/HoLaChat">
@@ -145,44 +145,43 @@ A final-year Software Engineering student dedicated to <strong>Backend Architect
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🎵 WebMusic — Streaming Platform</h3>
-<p><em>Full-featured music streaming platform with track management, analytics & live deployment.</em></p>
+<h3>🎬 CineFlow — Movie CMS & Stream Engine</h3>
+<p><em>Automated movie ingestion command center & streaming server inspector.</em></p>
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" alt="BullMQ" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/React_Vite-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 </p>
 <ul>
-<li><strong>Streaming & Playback:</strong> Audio player with favorites, personalized listening history, and play counts.</li>
-<li><strong>Admin Management:</strong> Complete song CRUD, soft-delete trash recovery, and analytics dashboard.</li>
-<li><strong>Cloud Deployed:</strong> Live on Render with rate-limiting, session control, and bcrypt encryption.</li>
+<li><strong>Background Ingestion:</strong> Distributed BullMQ job queues & Redis for throttled, resilient background scraping and sync.</li>
+<li><strong>Stream Discovery:</strong> Headless browser crawling with Playwright & Cheerio for Vietsub, Thuyết minh & HLS streaming feeds.</li>
+<li><strong>Telemetry Dashboard:</strong> Real-time batch sync status, server telemetry, and comprehensive taxonomy management.</li>
 </ul>
 <p align="center">
-<a href="https://github.com/cuognit/WebMusic">
+<a href="https://github.com/cuognit/movie-source-finder">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
-</a>
-&nbsp;
-<a href="https://webmusic-7vy8.onrender.com">
-<img src="https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&logo=render&logoColor=black" alt="Live Demo" />
 </a>
 </p>
 </td>
 <td width="50%" valign="top">
-<h3>📦 Order Management System</h3>
-<p><em>Modern order workflow and transactional management dashboard for operations.</em></p>
+<h3>💼 JobPlatform — Recruitment Monorepo</h3>
+<p><em>Enterprise job recruiting & career management platform built as a monorepo.</em></p>
 <p>
-<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/TypeORM-FE0808?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
 <ul>
-<li><strong>Responsive Operations:</strong> Dynamic filtering, order lifecycle management, and instant state updates.</li>
-<li><strong>Modular API:</strong> RESTful API backend handling transactional order pipelines and reporting.</li>
+<li><strong>Decoupled Monorepo:</strong> Separate Next.js candidate portal & standalone admin dashboard to isolate privileged bundles.</li>
+<li><strong>Application Pipeline:</strong> Full candidate profile builder, resume / CV asset management, and job application workflow.</li>
+<li><strong>RBAC & Data Modeling:</strong> Role-based access control, modular domain ownership, and robust TypeORM migrations.</li>
 </ul>
 <p align="center">
-<a href="https://github.com/cuognit/Project_Int">
+<a href="https://github.com/DoMinhQuan2002/job-platform">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
 </a>
 </p>
@@ -238,7 +237,7 @@ A final-year Software Engineering student dedicated to <strong>Backend Architect
 <!-- ==================== CONNECT & FOOTER ==================== -->
 <div align="center">
   <h2>🤝 Let's Connect & Collaborate!</h2>
-  <p>I'm always open to discussing new opportunities, backend challenges, or intriguing project ideas.</p>
+  <p>I'm always open to discussing new opportunities, distributed system challenges, or collaboration.</p>
   
   <p align="center">
     <a href="mailto:cuongct18.jr@gmail.com">
@@ -251,10 +250,6 @@ A final-year Software Engineering student dedicated to <strong>Backend Architect
     &nbsp;
     <a href="https://linkedin.com">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://webmusic-7vy8.onrender.com">
-      <img src="https://img.shields.io/badge/Live_Demo-WebMusic-00E5FF?style=for-the-badge&logo=render&logoColor=black" alt="Portfolio Demo" />
     </a>
   </p>
 
